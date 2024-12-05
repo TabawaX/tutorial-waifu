@@ -1,2 +1,2 @@
 * [Home](docs/README.md)
-* [Tutorial Commands](docs/commands.md)
+* [Khusus Pemula](docs/waifumap.md)

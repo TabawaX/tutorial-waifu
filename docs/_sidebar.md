@@ -1,3 +1,6 @@
 - [Beranda](docs/README.md)
 - [Tutorial Commands](docs/commands.md)
 * [Tutorial Waifu](docs/waifumap.md)
+* [Tutorial Trade](docs/trade.md)
+* [Pity Func Info](docs/pity.md)
+* [Pricing Top Up](docs/pricing.md)

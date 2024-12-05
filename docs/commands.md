@@ -40,3 +40,29 @@ Menampilkan wujud asli harem kamu satu per satu.
 *Ini akan menampilkan daftar waifu berupa gambar secara satu per satu.*
 
 ![Cara Melihat Waifu](https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/other/docs/Screenshot_20241204-103907.jpg)
+
+## 5. `!wsearch`
+
+Command ini digunakan untuk **mencari waifu di database Waifu**. Jika waifu kamu tidak ditemukan di database, kamu bisa request melalui **Divbot** bagian database atau melalui website.
+
+---
+
+![Cara Search Waifu](https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/other/docs/Screenshot_20241205-192035.png)
+
+---
+
+### Cara Penggunaan:
+```plaintext
+!wsearch <waifu yang kamu cari>
+```
+
+*Command ini akan menampilkan detail waifu yang kamu cari. Jika tidak ditemukan di database, Kisaki akan mencari hasil yang terdekat.*
+
+---
+
+> **⚠️ Disclaimer:**
+Kamu **tidak bisa mendapatkan** atau menggunakan `!wclaim` untuk waifu melalui search. Command ini hanya digunakan untuk **melihat detail character**.  
+Untuk mendapatkan waifu, gunakan **`!wgacha`**.
+
+---
+

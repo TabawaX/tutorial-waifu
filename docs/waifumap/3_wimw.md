@@ -20,4 +20,4 @@ Command Ini Untuk **Melihat Waifu yang telah kamu Klem**
 
 ---
 
-[← Previous](docs/waifumap/2_wclaim.md)
+[← Previous](docs/waifumap/2_wclaim.md) | [Next →](docs/waifumap/4_waddfav.md)

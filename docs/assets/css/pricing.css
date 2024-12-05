@@ -1,0 +1,171 @@
+
+.pricing-table {
+display: flex;
+flex-direction: column;
+gap: 30px;
+align-items: center;
+}
+.pricing-card,
+.terms-card,
+.custom-card {
+width: 100%;
+max-width: 600px;
+background-color: #ffffff;
+border: 1px solid #ddd;
+border-radius: 12px;
+padding: 20px;
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+text-align: center;
+position: relative;
+overflow: hidden;
+}
+.pricing-card h3,
+.terms-card h3 {
+font-size: 22px;
+margin: 0 0 10px;
+font-weight: bold;
+color: #2e7d32;
+}
+.pricing-card h3::after,
+.terms-card h3::after {
+content: "";
+display: block;
+margin: 10px auto 0;
+width: 80%;
+height: 2px;
+background: linear-gradient(to right, rgba(46, 125, 50, 0.8), rgba(46, 125, 50, 0.1));
+}
+.benefits,
+.tos-benefits,
+.custom-offers {
+margin-top: 16px;
+text-align: left;
+list-style-type: none;
+padding-left: 20px;
+}
+.benefits li,
+.tos-benefits li,
+.custom-offers li {
+margin-bottom: 8px;
+font-size: 14px;
+position: relative;
+padding-left: 25px;
+}
+.benefits li::before,
+.tos-benefits li::before,
+.custom-offers li::before {
+content: "✔";
+font-size: 14px;
+color: #4caf50;
+position: absolute;
+left: 0;
+top: 0;
+}
+.custom-offers li span.offer {
+color: #d32f2f;
+font-weight: bold;
+}
+.best-offer {
+margin-top: 15px;
+font-size: 16px;
+font-weight: bold;
+color: #388e3c;
+}
+.best-offer span.offer {
+color: #fbc02d;
+}
+.pricing-card p.price {
+font-size: 32px;
+font-weight: bold;
+color: #388e3c;
+font-family: 'Poppins', sans-serif;
+margin: 15px 0 10px;
+position: relative;
+text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+.pricing-card p.price::after {
+content: "⭐";
+font-size: 20px;
+color: #ffc107;
+position: absolute;
+top: -10px;
+right: -10px;
+transform: rotate(-15deg);
+}
+.pricing-card::before,
+.pricing-card::after,
+.terms-card::before,
+.terms-card::after {
+content: "";
+position: absolute;
+z-index: 0;
+border-radius: 50%;
+transform: scale(1.5);
+}
+.pricing-card::before,
+.terms-card::before {
+top: -50px;
+left: -50px;
+width: 150px;
+height: 150px;
+background: radial-gradient(circle, rgba(46, 125, 50, 0.3), rgba(46, 125, 50, 0));
+}
+.pricing-card::after,
+.terms-card::after {
+bottom: -50px;
+right: -50px;
+width: 200px;
+height: 200px;
+background: radial-gradient(circle, rgba(46, 125, 50, 0.2), rgba(46, 125, 50, 0));
+}
+.pricing-card * {
+position: relative;
+z-index: 1;
+}
+.wa-button {
+display: inline-block;
+margin-top: 20px;
+padding: 12px 30px;
+background-color: #4caf50;
+color: #ffffff !important;
+font-size: 16px;
+font-weight: 600;
+text-decoration: none;
+border-radius: 50px;
+text-align: center;
+transition: background-color 0.3s ease, transform 0.2s ease;
+box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+border: 1px solid transparent;
+}
+.wa-button:hover {
+background-color: #388e3c;
+color: #ffffff !important;
+transform: translateY(-4px);
+box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.wa-button:focus {
+outline: none;
+border-color: #66bb6a;
+}
+.terms-card h3 {
+font-size: 22px;
+margin: 0 0 10px;
+font-weight: bold;
+color: #d32f2f;
+}
+.terms-card h3::after {
+content: "";
+display: block;
+margin: 10px auto 0;
+width: 80%;
+height: 2px;
+background: linear-gradient(to right, rgba(211, 47, 47, 0.8), rgba(211, 47, 47, 0.1));
+}
+.tos-benefits li::before {
+content: "⚠";
+font-size: 16px;
+color: #d32f2f;
+position: absolute;
+left: 0;
+top: 0;
+}
