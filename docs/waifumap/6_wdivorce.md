@@ -22,4 +22,4 @@ Command ini digunakan untuk **menceraikan waifu kamu** dan **menghapus** waifu y
 
 ---
 
-[← Previous](docs/waifumap/5_wmm.md) 
+[← Previous](docs/waifumap/5_wmm.md) | [Next →](docs/waifumap/7_wws.md)

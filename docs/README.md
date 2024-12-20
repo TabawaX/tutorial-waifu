@@ -9,6 +9,7 @@ Disini Kamu Dapat Melihat/Membaca Tutorial Waifu Di Bot Kisaki, dari cara penggu
 - [Tutorial Pemula](docs/waifumap.md)
 - [Tutorial Trade Waifu](docs/trade.md)
 - [Pengenalan Pity](docs/pity.md)
+- [Moderator Commands](docs/mod.md)
 
 # Tertarik Premium Kisaki?
 - [Pricing Harga](docs/pricing.md)
@@ -20,7 +21,7 @@ Disini Kamu Dapat Melihat/Membaca Tutorial Waifu Di Bot Kisaki, dari cara penggu
 
 
 <div class="contributor-card">
-  <img src="https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/other/docs/968ffd894730195b8a26c646b269e0ed.jpg" alt="Zhuanxie" class="contributor-img">
+  <img src="https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/496a83163ae5e9b6337bffcb9f9ce4a7.jpg" alt="Zhuanxie" class="contributor-img">
   <div class="contributor-info">
     <h3 class="contributor-name">Zhuanxie</h3>
     <p class="contributor-role">Developer, Webdev, Botdev</p>
@@ -29,7 +30,7 @@ Disini Kamu Dapat Melihat/Membaca Tutorial Waifu Di Bot Kisaki, dari cara penggu
 
 
 <div class="contributor-card">
-  <img src="https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/other/docs/IMG-20241205-WA0202.jpg" alt="Pluie" class="contributor-img">
+  <img src="https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/IMG-20241214-WA0063.jpg" alt="Pluie" class="contributor-img">
   <div class="contributor-info">
     <h3 class="contributor-name">Pluie</h3>
     <p class="contributor-role">CO Founder, Databases, bot development, El investor</p>
@@ -38,7 +39,7 @@ Disini Kamu Dapat Melihat/Membaca Tutorial Waifu Di Bot Kisaki, dari cara penggu
 
 
 <div class="contributor-card">
-  <img src="https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/other/docs/IMG-20241204-WA0039.jpg" alt="Yannz" class="contributor-img">
+  <img src="https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/IMG-20241212-WA0114.jpg" alt="Yannz" class="contributor-img">
   <div class="contributor-info">
     <h3 class="contributor-name">Yannz</h3>
     <p class="contributor-role">Database, Divbot</p>
@@ -46,7 +47,7 @@ Disini Kamu Dapat Melihat/Membaca Tutorial Waifu Di Bot Kisaki, dari cara penggu
 </div>
 
 <div class="contributor-card">
-  <img src="https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/other/docs/IMG-20241204-WA0038.jpg" alt="Violet" class="contributor-img">
+  <img src="https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/IMG-20241214-WA0061.jpg" alt="Violet" class="contributor-img">
   <div class="contributor-info">
     <h3 class="contributor-name">Violet</h3>
     <p class="contributor-role">Database, Moderator</p>

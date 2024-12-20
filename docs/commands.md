@@ -61,8 +61,24 @@ Command ini digunakan untuk **mencari waifu di database Waifu**. Jika waifu kamu
 ---
 
 > **⚠️ Disclaimer:**
-Kamu **tidak bisa mendapatkan** atau menggunakan `!wclaim` untuk waifu melalui search. Command ini hanya digunakan untuk **melihat detail character**.  
+Kamu **tidak bisa mendapatkan** atau menggunakan `react ♥️ pada pesan waifu` untuk waifu melalui search. Command ini hanya digunakan untuk **melihat detail character**.  
 Untuk mendapatkan waifu, gunakan **`!wgacha`**.
 
+---
+
+## 6. `!wleft`
+
+Command ini digunakan untuk **Melihat Waifu Yang Tersisa di grup**
+
+---
+
+![Cara Melihat Waifu Tersisa](https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/docs/Screenshot_20241217-203304.jpg)
+
+---
+
+### Cara Penggunaan:
+```plaintext
+!wleft 
+```
 ---
 
