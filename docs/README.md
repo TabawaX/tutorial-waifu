@@ -55,14 +55,9 @@ Disini Kamu Dapat Melihat/Membaca Tutorial Waifu Di Bot Kisaki, dari cara penggu
 </div>
 
 <div class="contributor-card">
-  <img src="https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/IMG-20241220-WA0061.jpg" alt="juman" class="contributor-img">
+  <img src="https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/IMG-20241220-WA0061.jpg" alt="Juman" class="contributor-img">
   <div class="contributor-info">
     <h3 class="contributor-name">Juman</h3>
     <p class="contributor-role">Database, Moderator</p>
   </div>
 </div>
- 
- 
- 
- 
- 
